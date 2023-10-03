@@ -2,7 +2,7 @@
   "expo": {
     "name": "VinaArba",
     "slug": "my-app",
-    "version": "1.0.11",
+    "version": "1.0.12",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
@@ -21,7 +21,7 @@
       "infoPlist": {
         "NSPhotoLibraryUsageDescription": "This app need access to the photo library to register your post(with photos) or change your avatar."
       },
-      "buildNumber": "11"
+      "buildNumber": "12"
     },
     "android": {
       "googleServicesFile": "./google-services.json",
@@ -30,7 +30,7 @@
         "backgroundColor": "#FFFFFF"
       },
       "package": "com.rlawpgud.vinaarba",
-      "versionCode": 11
+      "versionCode": 12
     },
     "web": {
       "favicon": "./assets/favicon.png"
