@@ -1,0 +1,2 @@
+import EditCompanyPostReCommentFormContainer from "./EditCompanyPostReCommentFormContainer";
+export default EditCompanyPostReCommentFormContainer;

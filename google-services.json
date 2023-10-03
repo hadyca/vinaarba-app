@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77305786897",
+    "project_id": "vinaarba-4304f",
+    "storage_bucket": "vinaarba-4304f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77305786897:android:0599a8cdd927e4b79337b0",
+        "android_client_info": {
+          "package_name": "com.rlawpgud.vinaarba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77305786897-j4i8pqf8e56ndm8idr4ieie80tnimmbt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpgU_KR6SNdax7JdtYKDMVUOEsSf9G-TY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77305786897-j4i8pqf8e56ndm8idr4ieie80tnimmbt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

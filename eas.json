@@ -1,0 +1,33 @@
+{
+  "cli": {
+    "version": ">= 2.8.0"
+  },
+  "build": {
+    "development": {
+      "developmentClient": true,
+      "distribution": "internal"
+    },
+    "preview": {
+      "channel": "staging",
+      "distribution": "internal",
+      "android": {
+        "buildType": "apk"
+      }
+    },
+    "production": {
+      "channel": "production"
+    }
+  },
+  "submit": {
+    "production": {
+      "android": {
+        "serviceAccountKeyPath": "../pc-api-6386908736686269170-641-624034c40f5e.json"
+      },
+      "ios": {
+        "appleId": "vinaarba@gmail.com",
+        "ascAppId": "1658685408",
+        "appleTeamId": "3764ULF53T"
+      }
+    }
+  }
+}

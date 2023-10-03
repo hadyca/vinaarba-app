@@ -1,0 +1,2 @@
+import EditUserPostCommentFormContainer from "./EditUserPostCommentFormContainer";
+export default EditUserPostCommentFormContainer;
