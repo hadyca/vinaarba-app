@@ -57,7 +57,8 @@
     "react-number-format": "^4.9.3",
     "styled-components": "^5.3.0",
     "expo-dev-client": "~2.0.1",
-    "expo-updates": "~0.15.6"
+    "expo-updates": "~0.15.6",
+    "expo-build-properties": "~0.4.1"
   },
   "devDependencies": {
     "@babel/core": "^7.19.3"
